@@ -5,7 +5,7 @@ This repository is for the paper, **Online Learning of Stable Integer Variables 
 
 **2023-02-25**
 
-- M
+- Modify the table.
 
 **2022-12-24**
 
